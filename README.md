@@ -7,6 +7,7 @@
 [![MIT 协议](https://img.shields.io/github/license/wechat-miniprogram/api-typings.svg)](https://github.com/wechat-miniprogram/api-typings)
 [![GitHub Actions 测试状况](https://github.com/wechat-miniprogram/api-typings/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/wechat-miniprogram/api-typings/actions/workflows/test.yml)
 
+Fork自miniprogram-api-typings，但用改变Behavior运行结果为Instance的方式，真实runtime为string，来实现了Behavior的类型传导。
 微信小程序 API 的 TypeScript 类型定义文件
 
 ## 安装
